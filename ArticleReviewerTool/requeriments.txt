@@ -1,0 +1,6 @@
+transformers
+numpy
+tensorflow
+tk
+pandas
+openpyxl
